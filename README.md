@@ -23,3 +23,5 @@ npm i --save-dev eslint typescript @typescript-eslint/parser @typescript-eslint/
 ```
 
 Add `.eslint.js` and `.eslintignore`, and lint script.
+
+More info on linting setup [here](https://react-typescript-cheatsheet.netlify.app/docs/basic/linting).
