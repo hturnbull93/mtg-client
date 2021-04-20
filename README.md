@@ -21,3 +21,5 @@ TypeScript-ESLint is installed with:
 ```shell
 npm i --save-dev eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
 ```
+
+Add `.eslint.js` and `.eslintignore`.
